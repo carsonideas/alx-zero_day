@@ -1,1 +1,1 @@
-My first autorised readme edit in gitbub interface
+My first authorised readme edit in gitbub interface
